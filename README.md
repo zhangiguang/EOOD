@@ -9,7 +9,7 @@ End-to-End One-Stage Oriented Object Detection
 ![dior.jpg](https://postimg.cc/jD7MtjDV)
 
 ![image](./figures/dior.jpg)
-
+[![dior.jpg](https://i.postimg.cc/NjNS89Y0/dior.jpg)](https://postimg.cc/jD7MtjDV)
 
 ## Installation
 
