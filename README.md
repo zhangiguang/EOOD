@@ -8,7 +8,7 @@ End-to-End One-Stage Oriented Object Detection
 ### Some Results
 ![dior.jpg](https://github.com/zhangiguang/EOOD/blob/main/figures/dior.jpg)
 
-![image](https://github.com/zhangiguang/EOOD/blob/main/figures/dota.jpgg)
+![dota.jpg](https://github.com/zhangiguang/EOOD/blob/main/figures/dota.jpg)
 
 ## Installation
 
