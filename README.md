@@ -3,7 +3,7 @@ End-to-End One-Stage Oriented Object Detection
 
 ## Introduction
 
-![EOOD](./figures/eood.png)
+![EOOD](https://github.com/zhangiguang/EOOD/raw/main/figures/eood.png)
 
 ### Some Results
 ![image](./figures/dota.jpg)
