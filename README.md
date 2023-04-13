@@ -3,7 +3,7 @@ End-to-End One-Stage Oriented Object Detection
 
 ## Introduction
 
-![Snipaste_2022-06-17_11-58-45](https://user-images.githubusercontent.com/26215859/174222183-2de9fe00-8dd2-4535-8427-d9c385f145f8.png)
+![Snipaste_2022-06-17_11-58-45](./figures/eood.png)
 
 
 <details open>
@@ -13,9 +13,9 @@ This is a standard code of Deformable Detr for training DOTA datasets. The compl
 
 
 ### Some Results
-![image](https://user-images.githubusercontent.com/26215859/174222334-df51f640-c267-4f1e-a9e4-25edd2b9eee1.png)
+![image](./figures/dota.jpg)
 
-![image](https://user-images.githubusercontent.com/26215859/174222294-68698a0b-8d82-41c0-8c02-a2aa182f8e42.png)
+![image](./figures/dior.jpg)
 
 
 ## Installation
