@@ -3,14 +3,7 @@ End-to-End One-Stage Oriented Object Detection
 
 ## Introduction
 
-![Snipaste_2022-06-17_11-58-45](./figures/eood.png)
-
-
-<details open>
-<summary><b>Deformable DETR</b></summary>
-This is a standard code of Deformable Detr for training DOTA datasets. The complete paper code will be open-sourced later (if the paper is accepted).
-</details>
-
+![EOOD](./figures/eood.png)
 
 ### Some Results
 ![image](./figures/dota.jpg)
